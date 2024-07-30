@@ -1,4 +1,4 @@
-# DSC550-CNN-Model
+# DSC550-CNN-Model-Gender-Classification
 An assignment for DSC550 (Neural Networks and Deep Learning) at GCU that focused on building a convolutional neural network (CNN) to analyze images of people's faces and classify them as either male or female.
 
 Check out the full report [here.](https://github.com/jhould007/DSC550-CNN-Model/blob/master/CNN%20Model.ipynb)
